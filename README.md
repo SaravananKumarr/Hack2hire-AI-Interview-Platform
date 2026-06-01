@@ -18,15 +18,15 @@
 
 ## 📹 Screen Recording
 
-> 🎥 **[Click here to watch the demo](#)**  
-> *(Replace this link with your actual screen recording URL)*
+> 🎥 **[https://drive.google.com/file/d/17tM-QSyD0TpgQ2XV7P49tW7WrwNUOLPL/view?usp=sharing](#)**  
+
 
 ---
 
 ## 🚀 Live Demo
 
-> 🌐 **[https://your-app.vercel.app](#)**  
-> *(Replace with your deployed Vercel / Netlify URL)*
+> 🌐 **[https://college-discovery-847g.vercel.app/](#)**  
+
 
 ---
 
