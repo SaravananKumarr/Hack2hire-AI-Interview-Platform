@@ -267,20 +267,7 @@ A: Yes — the platform reads your resume and JD, so it adapts to any technical 
 
 ---
 
-## 📦 Hackathon Submission
 
-- **Event:** Hack2Hire 2026 — AI-Powered Interview Hackathon by UnsaidTalks
-- **Deadline:** 1st June, 2026 at 6:00 PM IST
-- **Portal:** [Unstop](https://unstop.com)
-- **Submission:** Public GitHub repo link on the Unstop portal
-
----
-
-## 👤 Author
-
-Built for **Hack2Hire 2026** by UnsaidTalks
-
-> Contact UnsaidTalks: [info@unsaidtalks.com](mailto:info@unsaidtalks.com) • +91-7303573374
 
 ---
 
